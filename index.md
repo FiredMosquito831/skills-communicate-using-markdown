@@ -81,3 +81,14 @@ class Student {
 }
 ```
 ###### I wrote this for fun while at univ, cause i wondering of how student accounts and stuff is made on a site like the one from ASE
+
+
+
+### TASKS
+###### I have failed one of them today btw
+
+- [ ] Train a proper ASR romanian model that works
+- [X] Fail and spend 4 hours figuring it out with chatGPT for nothing cause I trained the wav2vec model wrong
+- [X] Do the stuff from Microsoft Learn
+- [X] Get super sick and lose a day of uni
+- [X] Enjoy this fun and useful github couse 
