@@ -12,6 +12,17 @@
 
 ##### This is how you print something in python
 
+
+# This is a basic button that will redirect you to my transcription (English only). Please only do short English audio's less than 1 hour. If you refresh, you will lose progress.
+
+<a href="https://7b76-2a02-2f09-d20e-6200-dd51-ebe4-274e-9871.ngrok-free.app/">
+  <button>Test my ENGLISH transcription app (you can also do audio clearing and voice improvemnt DENOISING)</button>
+</a>
+
+# TEST IT NOW
+
+#### Some random python code on how to print something
+
 ```python
 print("This is some python code")
 
